@@ -57,8 +57,7 @@ All models showed fairly tight residual distributions, but the **4-variable mode
 ## ✅ Takeaways
 - **Cumulative GPA** is the strongest predictor, but sleep patterns provide meaningful additional insights.
 - More **consistent bedtimes** and **shorter daytime sleep** (indicating better rest at night) are correlated with higher GPA.
-- Sleep behavior is a viable input in predictive models for academic success.
-
+- Many other factors than can impact GPA other than sleep habits
 ---
 
 ## 📁 What's Inside
