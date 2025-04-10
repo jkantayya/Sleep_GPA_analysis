@@ -1,4 +1,3 @@
-# team-nap-navigators-fa24
 # Sleep_GPA_analysis
 
 This project explores how college students' sleep patterns affect academic performance. Using a dataset of 634 first-year students from CMU, UW, and Notre Dame, we performed exploratory analysis and built predictive models to examine how sleep behaviors influence GPA.
