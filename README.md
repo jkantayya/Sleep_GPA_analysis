@@ -34,9 +34,7 @@ We tested models with:
 ### 🧮 Best Model Equation (4 features)
 ŷ = 0.9878 + 0.6808(cum_gpa) - 0.0798(bedtime_mssd) - 0.0020(daytime_sleep) + 0.0005(TotalSleepTime)
 
-yaml
-Copy
-Edit
+
 
 ---
 
